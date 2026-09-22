@@ -1,0 +1,3 @@
+AI_BASE_URL=https://dashscope.aliyuncs.com/compatible-mode/v1
+AI_MODEL=qwen-plus
+AI_API_KEY=
